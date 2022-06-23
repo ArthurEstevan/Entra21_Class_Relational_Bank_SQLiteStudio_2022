@@ -26,6 +26,7 @@ nome TEXT NOT NULL
 
 --DML manipula os dados do banco como inserts, update, delete e select
 
+
 --verificando se a tabela existe
 
 select * from pessoa; -- READ
@@ -33,12 +34,11 @@ select * from pessoa; -- READ
 
 --inserindo um registro na tabela pessoa
 
---CREATE
-
 --para inserir é necessario informar os campos e respectivamente os valores
 
-insert into pessoa (name,age) values("Arthur",18);
+insert into pessoa (name,age) values("Arthur",18); --CREATE
 
---DELETE
 
-delete from pessoa;
+--excluimdo um registro na tabela pessoa
+
+delete from pessoa; --DELETE
