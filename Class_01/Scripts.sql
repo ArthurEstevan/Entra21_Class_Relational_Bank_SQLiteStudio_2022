@@ -12,7 +12,7 @@ age INTEGER
 
 );
 
---DLL define objetos do banco de dados como tabelas e colunas
+--DDL define objetos do banco de dados como tabelas e colunas
 
 create table usuario(
 
