@@ -1,18 +1,18 @@
-# Entra21 Advanced Java
+# Entra2️⃣1️⃣ DataBase
 
 ### Repository with practices carried out in class
 
 >Practical content delivered in the classroom during the Entra21 project In additive learning opportunities in:
 >
-> - DateBase
+> - DataBase
 > - Markdown Language
 > - Documentation
 
-![Gif Entra21](/entra21.gif)
+![Gif Entra21](https://github.com/ArthurEstevan/Entra21_Java_Advanced_2022/blob/main/entra21.gif)
+
+---
 
 ## Class Taught
-
-<a href="#"><img align="center" src="./giphy.gif" width="400 " height="300" /></a>
 
 | Class | Subject |
 |------|---------|
