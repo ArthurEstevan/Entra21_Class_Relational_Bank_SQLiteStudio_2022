@@ -16,8 +16,8 @@
 
 ---
 
-## Demo Image 🖼
+## 🖼 Demo Image 
 
 <br>
 
-![Exercise_01](./Class_01/Class_01.png)
+![Exercise_01](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/blob/main/Class_01/Class_01.png)
