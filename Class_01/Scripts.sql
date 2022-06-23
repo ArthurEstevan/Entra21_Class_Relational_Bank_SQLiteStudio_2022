@@ -1,10 +1,15 @@
 --DDL para criar uma tabela
 
 CREATE TABLE pessoa (
-    id   INTEGER PRIMARY KEY AUTOINCREMENT
-                 UNIQUE,
-    nome TEXT    NOT NULL,
-    age  INTEGER
+
+id INTEGER PRIMARY KEY AUTOINCREMENT
+
+UNIQUE,
+
+name TEXT NOT NULL,
+
+age INTEGER
+
 );
 
 --DLL define objetos do banco de dados como tabelas e colunas
