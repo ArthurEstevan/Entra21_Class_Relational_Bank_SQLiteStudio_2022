@@ -2,4 +2,4 @@
 
 <br>
 
-![08](https://)
+![08](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/blob/main/Class_02/08-DML-Delete-Pessoas-Com-Filtro/8.png)
