@@ -1,15 +1,15 @@
 # Creating a Table
 
-# O Entra21 precisa registrar os cursos ofertados e o detalhe da ementa:
+### Entra21 needs to register the courses offered and the details of the menu:
 
-> Para salvar esses dados é necessario um BD (banco de dados) robusto como o SqLite;
+> To save this data a robust BD (database) like SqLite is needed;
 >
-> - Crie uma tabela com as informações necessárias que representem um curso , como nome, qtdAulas, valor;
-> 
-> - Insira 10 registros;
-> - Liste todos;
-> - Liste todos que forem >500;
-> - Liste todos com mais de 10 aulas;
-> - Atualize o valor dos registros caros para ficarem o dobro mais caro;
-> - Delete os cursos baratos;
-> - Liste tudo novamente
+> - Create a table with the necessary information that represents a course, such as name, qtdAulas, value;
+>
+> - Insert 10 records;
+> - List all;
+> - List all that are >500;
+> - List all with more than 10 lessons;
+> - Update the value of expensive records to be twice as expensive;
+> - Delete the cheap courses;
+> - List everything again
