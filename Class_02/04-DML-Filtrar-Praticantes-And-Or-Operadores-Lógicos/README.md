@@ -1,3 +1,7 @@
+## 📈 Using Logical Operators
+
+> Learning the use of logical operators in my table
+
 ## 🖼 Demo Image 
 
 <br>
