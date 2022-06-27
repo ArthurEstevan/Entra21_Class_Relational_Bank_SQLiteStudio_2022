@@ -18,4 +18,5 @@
 
 | Class | Subject |
 |------|---------|
-|Class 01 |[DDL and DML](/Class_01)  
+|Class 01 |[DDL and DML](/Class_01)
+|Class 02 |[Practicing](/Class_02)  
