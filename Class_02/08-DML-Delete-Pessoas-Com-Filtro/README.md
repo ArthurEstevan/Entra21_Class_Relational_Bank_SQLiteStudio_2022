@@ -1,3 +1,7 @@
+## 📈 Deleting from Person Table
+
+> Deleting a person from my table
+
 ## 🖼 Demo Image 
 
 <br>
