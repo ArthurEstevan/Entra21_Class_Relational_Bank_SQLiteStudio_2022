@@ -13,3 +13,5 @@
 > - Update the value of expensive records to be twice as expensive;
 > - Delete the cheap courses;
 > - List everything again
+
+---
