@@ -1,6 +1,6 @@
-## 📈 Creating Practitioner Table
+## 📈 Filtering Practitioners
 
-> Creating a practitioner table with its attributes and parameters
+> Looking for practitioners in the table
 
 ## 🖼 Demo Image 
 
