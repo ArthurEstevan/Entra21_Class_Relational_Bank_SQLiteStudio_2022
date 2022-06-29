@@ -2,8 +2,6 @@
 
 ## 1️⃣ First Exercise
 
-> Create a table that represents a class that existed in the project developed in the last module;
->
 > This table must contain the following attributes:
 >
 > - CREAT
