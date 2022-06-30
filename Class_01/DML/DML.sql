@@ -1,5 +1,9 @@
-
 --DML
+
+-- Read
+-- Insert
+
+-- Lendo tabela clientes e inserindo dados na tabela.
 
 select * from Cliente;
 

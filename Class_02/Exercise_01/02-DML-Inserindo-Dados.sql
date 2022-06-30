@@ -1,7 +1,10 @@
 -- DML
--- CREAT
 
-select * from Entra21;
+-- Insert
+
+-- Inserindo dados na minha tabela:
+
+select * from Entra21; -- Read
 
 insert into Entra21(curso, nome, qtdAulas, valor) 
 values ("Java", "Learning Java", 10, 1500);

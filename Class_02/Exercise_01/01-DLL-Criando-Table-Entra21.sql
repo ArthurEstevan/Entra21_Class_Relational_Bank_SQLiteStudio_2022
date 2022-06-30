@@ -1,12 +1,14 @@
 -- DLL
--- CREAT
 
-create table Entra21 (
+-- Create
 
-id Integer primary key autoincrement unique,
-curso text unique,
-nome text not null,
-qtdAulas Integer not null,
-valor Integer not null
+-- Criando minha tabela
 
+CREATE TABLE Entra21 (
+    id       INTEGER PRIMARY KEY AUTOINCREMENT
+                     UNIQUE,
+    curso    TEXT    UNIQUE,
+    nome     TEXT    NOT NULL,
+    qtdAulas INTEGER NOT NULL,
+    valor    INTEGER NOT NULL
 );

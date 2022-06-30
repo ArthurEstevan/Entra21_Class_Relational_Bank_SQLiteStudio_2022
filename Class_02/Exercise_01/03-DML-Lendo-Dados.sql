@@ -1,19 +1,21 @@
 -- DML
--- READ
 
-select * from Entra21;
+select * from Entra21; -- Read
 
-select * from Entra21
-where
-valor >= 500
-;
+-- Filtrando itens na minha tabela. (utileze where [campo] [operador] [valor])
 
-select * from Entra21
-where
-valor <= 500
-;
+SELECT *
+  FROM Entra21
+ WHERE valor >= 500; -- operador lógico
 
-select * from Entra21
-where
-qtdAulas >= 10
-;
+-- Filtrando itens na minha tabela. (utileze where [campo] [operador] [valor])
+
+SELECT *
+  FROM Entra21
+ WHERE valor <= 500; -- operador lógico
+
+-- Filtrando itens na minha tabela. (utileze where [campo] [operador] [valor])
+
+SELECT *
+  FROM Entra21
+ WHERE qtdAulas >= 10; -- operador lógico

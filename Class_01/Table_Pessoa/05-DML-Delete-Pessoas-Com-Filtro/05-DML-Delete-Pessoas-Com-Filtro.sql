@@ -1,13 +1,16 @@
--- DML
+-- DLL
 
-select * from Entra21; -- Read
+select * from pessoa; -- Read
 
 -- Usamos delete para deletar algum dado na minha tabela 
 
-DELETE FROM Entra21
-      WHERE valor < 3000;
-
+DELETE FROM pessoa -- Delete
+      WHERE id = 1;
+      
 -- Trocando apenas o delete por select podemos ter uma conferência do que será excluido
 
-SELECT * FROM Entra21
-      WHERE valor < 3000;
+SELECT *
+  FROM pessoa
+ WHERE id = 1;
+
+
