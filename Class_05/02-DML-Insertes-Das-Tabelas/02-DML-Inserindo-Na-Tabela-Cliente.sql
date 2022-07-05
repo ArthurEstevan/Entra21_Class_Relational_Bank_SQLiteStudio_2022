@@ -1,6 +1,12 @@
-select * from pessoa;
+-- DML
 
-INSERT INTO pessoa (
+-- Inserindo dados na minha tabela cliente
+
+select * from cliente;
+
+-- Na minha tabela cliente note que falta um campo 'data_cadastro',
+-- esse campo será adicionado em outro momento através de um UPDATE.
+INSERT INTO cliente (
                       nome,
                       cpf,
                       rg,
@@ -15,7 +21,8 @@ INSERT INTO pessoa (
                       bairro,
                       cidade,
                       estado,
-                      telefone
+                      telefone,
+                      data_atualizacao
                   )
                   VALUES (
                       "Mateus Kevin Yago Melo",
@@ -32,10 +39,13 @@ INSERT INTO pessoa (
                       "Trapiche da Barra",
                       "Maceió",
                       "AL",
-                      "(82) 3645-6564"
+                      "(82) 3645-6564",
+                      "29/06/2022"
                   );
-                  
-INSERT INTO pessoa (
+
+-- Na minha tabela cliente note que falta um campo 'data_cadastro',
+-- esse campo será adicionado em outro momento através de um UPDATE.           
+INSERT INTO cliente (
                       nome,
                       cpf,
                       rg,
@@ -50,7 +60,8 @@ INSERT INTO pessoa (
                       bairro,
                       cidade,
                       estado,
-                      telefone
+                      telefone,
+                      data_atualizacao
                   )
                   VALUES (
                       "Rodrigo Francisco Fábio Corte Real",
@@ -67,11 +78,13 @@ INSERT INTO pessoa (
                       "Jardim Zé Pereira",
                       "Campo Grande",
                       "MS",
-                      "(67) 3702-9786"
+                      "(67) 3702-9786",
+                      "29/06/2022"
                   );
 
-
-INSERT INTO pessoa (
+-- Na minha tabela cliente note que falta um campo 'data_cadastro',
+-- esse campo será adicionado em outro momento através de um UPDATE.
+INSERT INTO cliente (
                       nome,
                       cpf,
                       rg,
@@ -86,7 +99,8 @@ INSERT INTO pessoa (
                       bairro,
                       cidade,
                       estado,
-                      telefone
+                      telefone,
+                      data_atualizacao
                   )
                   VALUES (
                       "Isis Isabella Fabiana Viana",
@@ -103,11 +117,13 @@ INSERT INTO pessoa (
                       "Novo Aleixo",
                       "Manaus",
                       "AM",
-                      "(92) 2634-5243"
+                      "(92) 2634-5243",
+                      "29/06/2022"
                   );
 
-
-INSERT INTO pessoa (
+-- Na minha tabela cliente note que falta um campo 'data_cadastro',
+-- esse campo será adicionado em outro momento através de um UPDATE.
+INSERT INTO cliente (
                       nome,
                       cpf,
                       rg,
@@ -122,7 +138,8 @@ INSERT INTO pessoa (
                       bairro,
                       cidade,
                       estado,
-                      telefone
+                      telefone,
+                      data_atualizacao
                   )
                   VALUES (
                       "Breno Levi Luan Jesus",
@@ -139,10 +156,13 @@ INSERT INTO pessoa (
                       "Dom Bosco",
                       "Cidade Ocidental",
                       "GO",
-                      "(61) 3729-2972"
+                      "(61) 3729-2972",
+                      "29/06/2022"
                   );
 
-INSERT INTO pessoa (
+-- Na minha tabela cliente note que falta um campo 'data_cadastro',
+-- esse campo será adicionado em outro momento através de um UPDATE.
+INSERT INTO cliente (
                       nome,
                       cpf,
                       rg,
@@ -157,7 +177,8 @@ INSERT INTO pessoa (
                       bairro,
                       cidade,
                       estado,
-                      telefone
+                      telefone,
+                      data_atualizacao
                   )
                   VALUES (
                       "Luna Isabelle Rosângela da Mata",
@@ -174,5 +195,94 @@ INSERT INTO pessoa (
                       "Passo das Pedras",
                       "Porto Alegre",
                       "RS",
-                      "(51) 2635-5387"
+                      "(51) 2635-5387",
+                      "29/06/2022"
                   );
+                  
+-- Aqui estou inserindo um cliente que possui uma conta bancária assim fazendo a relação de tabelas
+INSERT INTO cliente (
+                        id,
+                        nome,
+                        cpf,
+                        rg,
+                        data_nascimento,
+                        sexo,
+                        nome_mae,
+                        nome_pai,
+                        email,
+                        cep,
+                        endereco,
+                        numero,
+                        bairro,
+                        cidade,
+                        estado,
+                        telefone,
+                        data_atualizacao,
+                        data_cadastro,
+                        conta_bancaria_cliente_id
+                    )
+                    VALUES (
+                        'id',
+                        'nome',
+                        'cpf',
+                        'rg',
+                        'data_nascimento',
+                        'sexo',
+                        'nome_mae',
+                        'nome_pai',
+                        'email',
+                        'cep',
+                        'endereco',
+                        'numero',
+                        'bairro',
+                        'cidade',
+                        'estado',
+                        'telefone',
+                        'data_atualizacao',
+                        'data_cadastro',
+                        'conta_bancaria_cliente_id'
+                    );
+
+-- Aqui estou inserindo um cliente que possui uma conta bancária assim fazendo a relação de tabelas        
+INSERT INTO cliente (
+                        id,
+                        nome,
+                        cpf,
+                        rg,
+                        data_nascimento,
+                        sexo,
+                        nome_mae,
+                        nome_pai,
+                        email,
+                        cep,
+                        endereco,
+                        numero,
+                        bairro,
+                        cidade,
+                        estado,
+                        telefone,
+                        data_atualizacao,
+                        data_cadastro,
+                        conta_bancaria_cliente_id
+                    )
+                    VALUES (
+                        'id',
+                        'nome',
+                        'cpf',
+                        'rg',
+                        'data_nascimento',
+                        'sexo',
+                        'nome_mae',
+                        'nome_pai',
+                        'email',
+                        'cep',
+                        'endereco',
+                        'numero',
+                        'bairro',
+                        'cidade',
+                        'estado',
+                        'telefone',
+                        'data_atualizacao',
+                        'data_cadastro',
+                        'conta_bancaria_cliente_id'
+                    );

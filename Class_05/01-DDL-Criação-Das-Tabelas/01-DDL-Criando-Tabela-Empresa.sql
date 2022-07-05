@@ -1,3 +1,7 @@
+-- DDL
+
+-- Criando minha tabela empresa
+
 CREATE TABLE empresa (
     id                 INTEGER PRIMARY KEY AUTOINCREMENT
                                UNIQUE

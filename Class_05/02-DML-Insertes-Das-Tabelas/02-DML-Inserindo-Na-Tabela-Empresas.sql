@@ -1,3 +1,7 @@
+-- DML
+
+-- Inserindo dados na minha tabela empresa
+
 select * from empresa;
 
 INSERT INTO empresa (
@@ -213,4 +217,100 @@ INSERT INTO empresa (
                         "59.676.639/0001-34",
                         "951.117.669.109",
                         "22/11/2017"
+                    );
+                    
+-- Aqui estou inserindo uma empresa que possui uma conta bancária assim fazendo a relação de tabelas
+INSERT INTO empresa (
+                        id,
+                        nome,
+                        cpf,
+                        rg,
+                        data_nascimento,
+                        sexo,
+                        nome_mae,
+                        nome_pai,
+                        email,
+                        cep,
+                        endereco,
+                        numero,
+                        bairro,
+                        cidade,
+                        estado,
+                        telefone,
+                        razao_social,
+                        cnpj,
+                        inscricao_estadual,
+                        data_de_abertura,
+                        conta_bancaria_empresa_id
+                    )
+                    VALUES (
+                        'id',
+                        'nome',
+                        'cpf',
+                        'rg',
+                        'data_nascimento',
+                        'sexo',
+                        'nome_mae',
+                        'nome_pai',
+                        'email',
+                        'cep',
+                        'endereco',
+                        'numero',
+                        'bairro',
+                        'cidade',
+                        'estado',
+                        'telefone',
+                        'razao_social',
+                        'cnpj',
+                        'inscricao_estadual',
+                        'data_de_abertura',
+                        'conta_bancaria_empresa_id'
+                    );
+
+-- Aqui estou inserindo uma empresa que possui uma conta bancária assim fazendo a relação de tabelas
+INSERT INTO empresa (
+                        id,
+                        nome,
+                        cpf,
+                        rg,
+                        data_nascimento,
+                        sexo,
+                        nome_mae,
+                        nome_pai,
+                        email,
+                        cep,
+                        endereco,
+                        numero,
+                        bairro,
+                        cidade,
+                        estado,
+                        telefone,
+                        razao_social,
+                        cnpj,
+                        inscricao_estadual,
+                        data_de_abertura,
+                        conta_bancaria_empresa_id
+                    )
+                    VALUES (
+                        'id',
+                        'nome',
+                        'cpf',
+                        'rg',
+                        'data_nascimento',
+                        'sexo',
+                        'nome_mae',
+                        'nome_pai',
+                        'email',
+                        'cep',
+                        'endereco',
+                        'numero',
+                        'bairro',
+                        'cidade',
+                        'estado',
+                        'telefone',
+                        'razao_social',
+                        'cnpj',
+                        'inscricao_estadual',
+                        'data_de_abertura',
+                        'conta_bancaria_empresa_id'
                     );

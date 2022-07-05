@@ -1,3 +1,7 @@
+-- DDL
+
+-- Criando minha tabela feedback
+
 CREATE TABLE feedback (
     id             INTEGER PRIMARY KEY AUTOINCREMENT
                            UNIQUE

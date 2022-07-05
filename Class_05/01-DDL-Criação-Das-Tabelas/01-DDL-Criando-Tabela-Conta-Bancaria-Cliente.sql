@@ -1,3 +1,7 @@
+-- DDL
+
+-- Criando minha tabela conta_bancaria_cliente
+
 CREATE TABLE conta_bancaria_cliente (
     id             INTEGER PRIMARY KEY AUTOINCREMENT
                            UNIQUE
@@ -5,9 +9,7 @@ CREATE TABLE conta_bancaria_cliente (
     agencia        TEXT    NOT NULL,
     conta_corrente TEXT    NOT NULL,
     saldo          REAL,
-    senha          TEXT    NOT NULL
-                           CHECK (senha >= 0 AND 
-                                  senha <= 8),
-    cliente        INTEGER REFERENCES cliente (id) 
+    senha          TEXT    NOT NULL,
+    cliente_id     INTEGER REFERENCES cliente (id) 
                            NOT NULL
 );

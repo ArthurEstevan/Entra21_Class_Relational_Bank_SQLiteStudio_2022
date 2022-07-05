@@ -1,3 +1,7 @@
+-- DDL
+
+-- Criando minha tabela funcionário
+
 CREATE TABLE funcionario (
     id              INTEGER PRIMARY KEY AUTOINCREMENT
                             UNIQUE
