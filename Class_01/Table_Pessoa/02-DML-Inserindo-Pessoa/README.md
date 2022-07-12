@@ -1,3 +1,5 @@
-## 📈 Inserting Person Into the Table
+# 📈 Learning SQLiteStudio
 
-> inserting person with the requested attributes
+## 📺 Demo Image 
+
+![02]()
