@@ -8,7 +8,7 @@
 > - [DML - Linguagem de Manipulação de Dados](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/tree/main/Class_01/DML)
 ---
 
-## 📚 Activity
+## 📚 Exercise
 
 > 2) Continuing, let's create a simple table called "person" where we can work our CRUD method that we learned in advanced java:
 >
