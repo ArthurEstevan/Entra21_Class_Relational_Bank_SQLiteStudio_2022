@@ -18,5 +18,9 @@
 
 | Class | Subject |
 |------|---------|
-|Class 01 |[DDL and DML](/Class_01)
-|Class 02 |[Practicing](/Class_02)  
+|Class 01 |[Learning what Database](/Class_01)
+|Class 02 |[Learning to Query and Filter](/Class_02)
+|Class 03 |[Learning to Relate Tables](/Class_03)
+|Class 04 |[Learning to Group Tables](/Class_04)
+|Class 05 |[Practicing DataBase](/Class_05)
+|Class 06 |[Remember Database Subjects](/Class_06)
