@@ -1,19 +1,18 @@
-# Learning SQLiteStudio
+# 📈 Learning SQLiteStudio
 
-## 1️⃣ First Exercise
+## 1️⃣ Firsts Activity
 
-> This table must contain the following attributes:
+> 1) Creating a table must contain the following attributes:
 >
-> - CREAT
->
-> - READ
-> 
-> - UPDATE
-
+> - DDL
+> - DML
 ---
 
-## 🖼 Demo Image 
-
-<br>
-
-![Exercise_01](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/blob/main/Class_01/First_SCRIPT/Class_01.png)
+> 2) Creating a person table must contain the following attributes:
+>
+> - Create
+> - Insert
+> - Filter
+> - Update
+> - Delete
+---
