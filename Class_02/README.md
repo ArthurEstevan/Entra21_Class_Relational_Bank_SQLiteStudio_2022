@@ -10,4 +10,6 @@
 ---
 
 > 2) Creating a entra21 table:
+>
+> - Exercise_01
 ---
