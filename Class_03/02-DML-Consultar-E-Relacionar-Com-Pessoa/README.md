@@ -1,3 +1,5 @@
-## 📈 Inserting Telephone Into the Table
+# 📈 Learning SQLiteStudio
 
-> inserting Telephone with the requested attributes
+## 📺 Demo Image 
+
+![02]()
