@@ -8,5 +8,5 @@
 > - [Inserting Data People](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/tree/main/Class_01/Table_Pessoa/02-DML-Inserindo-Pessoa)
 > - [Filtering People with Greater and Lesser Operator](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/tree/main/Class_01/Table_Pessoa/03-DML-Filtrar-Pessoa-Com-Operadores_Relacionais_Menor_Maior-Between)
 > - [Update in People with Filter](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/tree/main/Class_01/Table_Pessoa/04-DML-Update-Em-Pessoa-Com-Filtro)
-> - [Delete in People](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/tree/main/Class_01/Table_Pessoa/05-DML-Delete-Pessoas-Com-Filtro)
+> - [Delete in People with Filter](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/tree/main/Class_01/Table_Pessoa/05-DML-Delete-Pessoas-Com-Filtro)
 ---
