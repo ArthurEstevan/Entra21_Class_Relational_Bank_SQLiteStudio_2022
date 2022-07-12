@@ -8,7 +8,7 @@
 >
 > - Insert 10 records;
 > - List all;
-> - List all that are >500;
+> - List all that are > 500;
 > - List all with more than 10 lessons;
 > - Update the value of expensive records to be twice as expensive;
 > - Delete the cheap courses;
