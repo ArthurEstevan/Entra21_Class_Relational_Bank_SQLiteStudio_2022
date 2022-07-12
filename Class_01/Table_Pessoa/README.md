@@ -1,4 +1,6 @@
-## 📖 Activity
+# 📈 Learning SQLiteStudio
+
+## 📚 Activity
 
 > 2) Creating a person table must contain the following attributes:
 >
