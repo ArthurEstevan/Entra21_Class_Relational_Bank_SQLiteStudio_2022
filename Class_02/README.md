@@ -10,7 +10,7 @@
 > - [4 - Filter Practitioner Table with AND, OR and Logical Operator](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/tree/main/Class_02/04-DML-Filtrar-Praticante-Com-And-Or-Operadores_L%C3%B3gicos)
 ---
 
-## 📚 Activity
+## 📚 Exercise
 
 > 2) Now that we know the basics of the database, we can create our first exercise table:
 >
