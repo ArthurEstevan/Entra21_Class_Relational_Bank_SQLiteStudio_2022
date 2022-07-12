@@ -6,4 +6,4 @@
 
 <br>
 
-![01](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/blob/main/Class_02/01-DDL-Criar-Tabela-Praticantes/1.png)
+![01](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/blob/main/Class_02/01-DDL-Criando-Tabela-Praticante/1.png)
