@@ -1,9 +1,5 @@
-## 📈 Using Relational Operators
+# 📈 Learning SQLiteStudio
 
-> Learning the use of relational operators in my table
+## 📺 Demo Image 
 
-## 🖼 Demo Image 
-
-<br>
-
-![06](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/blob/main/Class_02/06-DML-Filtrar-Pessoa-Operadores-Relacionais-Menor-Maior-Between/6.png)
+![03](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/blob/main/Class_01/Table_Pessoa/03-DML-Filtrar-Pessoa-Com-Operadores_Relacionais_Menor_Maior-Between/6.png)
