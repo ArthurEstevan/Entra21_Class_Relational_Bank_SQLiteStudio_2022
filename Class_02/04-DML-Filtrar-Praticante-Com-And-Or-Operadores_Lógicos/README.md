@@ -1,9 +1,6 @@
-## 📈 Using Logical Operators
+# 📈 Learning SQLiteStudio
 
-> Learning the use of logical operators in my table
+## 📺 Demo Image 
 
-## 🖼 Demo Image 
+![04](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/tree/main/Class_02/04-DML-Filtrar-Praticante-Com-And-Or-Operadores_L%C3%B3gicos)
 
-<br>
-
-![04](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/blob/main/Class_02/04-DML-Filtrar-Praticante-Com-And-Or-Operadores_L%C3%B3gicos/4.png)
