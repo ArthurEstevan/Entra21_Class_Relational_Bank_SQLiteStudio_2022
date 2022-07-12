@@ -1,9 +1,5 @@
-## 📈 Deleting from Person Table
+# 📈 Learning SQLiteStudio
 
-> Deleting a person from my table
+## 📺 Demo Image 
 
-## 🖼 Demo Image 
-
-<br>
-
-![08](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/blob/main/Class_02/08-DML-Delete-Pessoas-Com-Filtro/8.png)
+![05](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/blob/main/Class_01/Table_Pessoa/05-DML-Delete-Pessoas-Com-Filtro/8.png)
