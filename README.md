@@ -12,7 +12,7 @@
 
 ---
 
-<a href="#"><img  src="/Banco%20de%20Dados.webp" width="400 " height="250" /></a>
+<a href="#"><img  src="/gif_image/Banco%20de%20Dados.webp" width="400 " height="250" /></a>
 
 ## Class Taught
 
