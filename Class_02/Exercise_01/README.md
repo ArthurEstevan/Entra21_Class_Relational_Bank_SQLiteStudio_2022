@@ -1,17 +1,14 @@
-# Creating a Table
+# 📈 Learning SQLiteStudio
 
-### Entra21 needs to register the courses offered and the details of the menu:
+## 📚 Activity
 
-> To save this data a robust BD (database) like SqLite is needed;
+> 1) Exercise number one consists of creating an Entra21 table following the steps below:
 >
-> - Create a table with the necessary information that represents a course, such as name, qtdAulas, value;
->
-> - Insert 10 records;
-> - List all;
-> - List all that are > 500;
-> - List all with more than 10 lessons;
-> - Update the value of expensive records to be twice as expensive;
-> - Delete the cheap courses;
-> - List everything again
-
+> - Insert ten data into the table
+> - List all data
+> - List all data greater than five hundred reais
+> - List all courses with more than ten lessons
+> - Updating the value of courses that are expensive to become even more expensive
+> - Delete courses that have not been updated
+> - List all data again
 ---
