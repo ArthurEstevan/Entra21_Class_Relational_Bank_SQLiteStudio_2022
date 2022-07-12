@@ -1,18 +1,15 @@
 # 📈 Learning SQLiteStudio
 
-## 1️⃣ Firsts Activity
+## 📚 Activity
 
-> 1) Creating a table must contain the following attributes:
+> 1) Starting our SQLiteStudio studies with both manipulations to DDL and DML, these methods are the first steps in the database:
 >
 > - [DDL - Linguagem de Definição de Dados](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/tree/main/Class_01/DDL)
 > - [DML - Linguagem de Manipulação de Dados](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/tree/main/Class_01/DML)
 ---
 
-> 2) Creating a person table must contain the following attributes:
+## 📚 Activity
+
+> 2) Continuing, let's create a simple table called "person" where we can work our CRUD method that we learned in advanced java:
 >
-> - [Create](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/tree/main/Class_01/Table_Pessoa/01-DDL-Criando-Tabela-Pessoa-E-Lendo)
-> - [Insert](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/tree/main/Class_01/Table_Pessoa/02-DML-Inserindo-Pessoa)
-> - [Filter](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/tree/main/Class_01/Table_Pessoa/03-DML-Filtrar-Pessoa-Com-Operadores_Relacionais_Menor_Maior-Between)
-> - [Update](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/tree/main/Class_01/Table_Pessoa/04-DML-Update-Em-Pessoa-Com-Filtro)
-> - [Delete](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/tree/main/Class_01/Table_Pessoa/05-DML-Delete-Pessoas-Com-Filtro)
----
+> - [Person Table](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/tree/main/Class_01/Table_Pessoa)
