@@ -1,4 +1,4 @@
-# _Entra![](./entra21numero.png) DataBase ![](./arquivo-sql.png)_
+# Entra![](./entra21numero.png) DataBase ![](./arquivo-sql.png)
 
 ## _Repository with several subjects in database_
 
