@@ -39,7 +39,7 @@ By studying this repository you will be able to understand this command:
 
 > Sites where I got the exercises, I will also leave repositories to help you do the exercises.
 
-1. [Simples exercise in OPP](https://oliota.com/curso_detalhe/entra21-22-06-2022-banco-dados-relacional/1655902570366) - scroll down to the bottom of the page or click on five 
-2. [Difficult exercises in OPP](https://www.ic.unicamp.br/~rocha/teaching/2012s2/mc536/listas/lista-01-respostas.pdf)
+1. [Simples exercise in DataBase](https://oliota.com/curso_detalhe/entra21-22-06-2022-banco-dados-relacional/1655902570366) - scroll down to the bottom of the page or click on five 
+2. [Difficult exercises in DataBase](https://www.ic.unicamp.br/~rocha/teaching/2012s2/mc536/listas/lista-01-respostas.pdf)
 3. [Teacher help repository](https://github.com/oliota/entra21-aulas-bancos-relacionais)
-4. [Learning OPP]()
+
