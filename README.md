@@ -41,5 +41,6 @@ By studying this repository you will be able to understand this command:
 
 1. [Simples exercise in DataBase](https://oliota.com/curso_detalhe/entra21-22-06-2022-banco-dados-relacional/1655902570366) - scroll down to the bottom of the page or click on five 
 2. [Difficult exercises in DataBase](https://www.ic.unicamp.br/~rocha/teaching/2012s2/mc536/listas/lista-01-respostas.pdf)
-3. [Teacher help repository](https://github.com/oliota/entra21-aulas-bancos-relacionais)
+3. [My help repository](https://github.com/ArthurEstevan/Entra21_Class_Relational_Bank/tree/main/Class_06)
+4. [Teacher help repository](https://github.com/oliota/entra21-aulas-bancos-relacionais)
 
