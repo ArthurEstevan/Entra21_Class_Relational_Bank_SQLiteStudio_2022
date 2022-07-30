@@ -19,7 +19,6 @@
 |Class 03 |[Learning to Relate Tables](/Class_03)
 |Class 04 |[Learning to Group Tables](/Class_04)
 |Class 05 |[Practicing DataBase](/Class_05)
-|Class 06 |[Remember Database Subjects](/Class_06)
 
 ## 🎫 _Bonus_
 
